@@ -1,0 +1,26 @@
+{
+  "name": "dpmbb-dump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamelaster/dpmbb-dump.git"
+  },
+  "author": "GAMELASTER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamelaster/dpmbb-dump/issues"
+  },
+  "homepage": "https://github.com/gamelaster/dpmbb-dump#README",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "electron": "^1.7.5",
+    "fs-extra": "^4.0.2",
+    "fs-extra-promise": "^1.0.1"
+  }
+}
